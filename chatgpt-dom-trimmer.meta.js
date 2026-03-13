@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         ChatGPT DOM Trimmer
 // @namespace    https://github.com/721676/tampermonkey_scripts
-// @version      1.1.0
+// @version      1.2.1
 // @description  Авто-обрезка старых сообщений в чате ChatGPT + перемещаемая настраиваемая панель
 // @author       you
 // @match        https://chatgpt.com/*
